@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Courtney!</h1>
+<h2>I'm an aspiring Data Analyst with a passion for data driven problem solving and extracting insights from data to drive growth. When I'm not working on data analytic projects, I enjoy traveling, working on puzzles, reading, and learning new skills. I'm also involved in dog sports - partnering with my corgi, Cheddar, in agility. She's much better at it than I am!
+
+This is my portfolio of personal data projects. I'd love to connect with others who share a passion for using data to make positive impacts in our communities.</h2>
+
+<h2>👨‍💻 Data Projects:</h2>
+
+- <b>E-Commerce Sales Prediction Using Random Forest Regression</b>
+  - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="CourtneyKFuller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/courtneykfuller
 
 <!--
-**cfuller19/cfuller19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
