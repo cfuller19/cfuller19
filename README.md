@@ -9,6 +9,8 @@ This is my portfolio of personal data projects. I'd love to connect with others 
   - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
 - <b>Sentiment Analysis of Online Reviews</b>
   - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
+- <b>Tableau Patient Readmission Dashboard</b>
+  - [Patient Readmission Dashboard](https://github.com/cfuller19/cfuller19patient_dashboard)
 
 
 <h2> 🤳 Connect with me:</h2>
