@@ -9,8 +9,11 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
   - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
 - <b>Sentiment Analysis of Online Reviews</b>
   - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
+- <b> Market Basket Analysis of Hospital Patient Prescription Drugs</b>
+  - [Market Basket Analysis](https://github.com/cfuller19/market-basket-analysis)
 - <b>Tableau Patient Readmission Dashboard</b>
   - [Patient Readmission Dashboard](https://github.com/cfuller19/cfuller19-patient_dashboard)
+  
 
 
 <h2> 🤳 Connect with me:</h2>
