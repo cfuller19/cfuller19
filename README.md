@@ -1,7 +1,7 @@
 <h1>Hi, I'm Courtney!</h1>
 <h2>I'm an aspiring Data Analyst with a passion for data driven problem solving and extracting insights from data to drive growth. When I'm not working on data analytic projects, I enjoy traveling, working on puzzles, reading, and learning new skills. I'm also involved in dog sports - partnering with my corgi, Cheddar, in agility. She's much better at it than I am!
 
-This is my portfolio of personal data projects. I'd love to connect with others who share a passion for using data to make positive impacts in our communities.</h2>
+This is my portfolio of personal data projects - I'll be adding to it as I create and explore. I'd love to connect with others who share a passion for using data to make positive impacts in our communities.</h2>
 
 <h2>👨‍💻 Data Projects:</h2>
 
