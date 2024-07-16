@@ -9,8 +9,8 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
   - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
 - <b>Sentiment Analysis of Online Reviews</b>
   - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
-- <b> Market Basket Analysis of Hospital Patient Prescription Drugs</b>
-  - [Market Basket Analysis](https://github.com/cfuller19/market-basket-analysis)
+- <b> Bellabeat Wellness Tracker Case Study: Exploratory Data Analysis</b>
+  - [Bellabeat Wellness Tracker: Exploratory Data Analysis](https://github.com/cfuller19/google_DA_capstone)
 - <b>Tableau Patient Readmission Dashboard</b>
   - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
