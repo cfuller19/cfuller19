@@ -1,5 +1,5 @@
 <h1>Hi, I'm Courtney!</h1>
-<h2>I'm an aspiring Data Analyst with a passion for data driven problem solving and extracting insights from data to drive growth. When I'm not working on data analytic projects, I enjoy traveling, working on puzzles, reading, and learning new skills. I'm also involved in dog sports - partnering with my corgi, Cheddar, in agility. She's much better at it than I am!
+<h2>I'm a Data Analyst with a passion for data driven problem solving and extracting insights from data to drive growth. When I'm not working on data analytic projects, I enjoy traveling, working on puzzles, reading, and learning new skills. I'm also involved in dog sports - partnering with my corgi, Cheddar, in agility. She's much better at it than I am!
 
 This is my portfolio of personal data projects - I'll be adding to it as I create and explore. I'd love to connect with others who share a passion for using data to make positive impacts in our communities.</h2>
 
@@ -12,7 +12,7 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
 - <b> Market Basket Analysis of Hospital Patient Prescription Drugs</b>
   - [Market Basket Analysis](https://github.com/cfuller19/market-basket-analysis)
 - <b>Tableau Patient Readmission Dashboard</b>
-  - [Patient Readmission Dashboard](https://github.com/cfuller19/cfuller19-patient_dashboard)
+  - [Patient Readmission Dashboard](https://https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
 
 
