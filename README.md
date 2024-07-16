@@ -13,6 +13,8 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
   - [Bellabeat Wellness Tracker: Exploratory Data Analysis](https://github.com/cfuller19/google_DA_capstone)
 - <b>Tableau Patient Readmission Dashboard</b>
   - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- <b>Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification</b>
+  - [K-Nearest Neighbors](https://github.com/cfuller19/knearestneighbors/tree/main))
   
 
 
