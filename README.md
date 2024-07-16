@@ -12,7 +12,7 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
 - <b> Market Basket Analysis of Hospital Patient Prescription Drugs</b>
   - [Market Basket Analysis](https://github.com/cfuller19/market-basket-analysis)
 - <b>Tableau Patient Readmission Dashboard</b>
-  - [Patient Readmission Dashboard](https://https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
 
 
