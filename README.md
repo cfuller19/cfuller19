@@ -11,8 +11,10 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
   - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
 - <b> Bellabeat Wellness Tracker Case Study: Exploratory Data Analysis</b>
   - [Bellabeat Wellness Tracker: Exploratory Data Analysis](https://github.com/cfuller19/google_DA_capstone)
-- <b>Tableau Patient Readmission Dashboard</b>
+- <b>Tableau Dashboard: Hospital Patient Readmission Stats</b>
   - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- <b>Tableau Dashboard: King County Washington School Funding</b>
+  - [School Funding Dashboard](https://public.tableau.com/shared/5955ZPWJ4?:display_count=n&:origin=viz_share_link)
 - <b>Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification</b>
   - [K-Nearest Neighbors](https://github.com/cfuller19/knearestneighbors/tree/main)
   
