@@ -5,24 +5,22 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
 
 <h2>👨‍💻 Data Projects:</h2>
 <h1>Exploratory Data Analysis</h1>
-- <b> Bellabeat Wellness Tracker Case Study: Exploratory Data Analysis (SQL)</b>
-  - [Bellabeat Wellness Tracker: Exploratory Data Analysis](https://github.com/cfuller19/google_DA_capstone)
+<ul>
+  <li><a href="https://github.com/cfuller19/google_DA_capstone">Bellabeat Wellness Tracker Case Study (SQL)</a></li>
+</ul>
 <br>
 <h1>Machine Learning Models</h1>
-- <b>E-Commerce Sales Prediction Using Random Forest Regression (Python)</b>
-  - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
-- <b>Sentiment Analysis of Online Reviews (Python)</b>
-  - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
-- <b>Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification (Python)</b>
-  - [K-Nearest Neighbors](https://github.com/cfuller19/knearestneighbors/tree/main)
+<ul>
+  <li><a href="https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction">E-Commerce Sales Prediction Using Random Forest Regression (Python)</a></li>
+  <li><a href="https://github.com/cfuller19/cfuller19-sentiment-analysis">Sentiment Analysis of Online Reviews (Python)</a></li>
+  <li><a href="https://github.com/cfuller19/knearestneighbors/tree/main">Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification</a></li>
+</ul>
 <br>
 <h1>Dashboards and Other Visualizations</h1>
-- <b>Hospital Patient Readmission Stats (Tableau)</b>
-  - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- <b>King County Washington School Funding Overview (Tableau)</b>
-  - [School Funding Dashboard](https://public.tableau.com/shared/5955ZPWJ4?:display_count=n&:origin=viz_share_link)
-
-  
+<ul>
+  <li><a href="https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Hospital Patient Readmission Status (Tableau)</a></li>
+  <li><a href="https://public.tableau.com/shared/5955ZPWJ4?:display_count=n&:origin=viz_share_link">King County Washington School Funding Overview (Tableau)</a></li>
+</ul>
 
 
 <h2> 🤳 Connect with me:</h2>
