@@ -4,19 +4,24 @@
 This is my portfolio of personal data projects - I'll be adding to it as I create and explore. I'd love to connect with others who share a passion for using data to make positive impacts in our communities.</h2>
 
 <h2>👨‍💻 Data Projects:</h2>
-
-- <b>E-Commerce Sales Prediction Using Random Forest Regression</b>
-  - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
-- <b>Sentiment Analysis of Online Reviews</b>
-  - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
-- <b> Bellabeat Wellness Tracker Case Study: Exploratory Data Analysis</b>
+<h1>Exploratory Data Analysis</h1>
+- <b> Bellabeat Wellness Tracker Case Study: Exploratory Data Analysis (SQL)</b>
   - [Bellabeat Wellness Tracker: Exploratory Data Analysis](https://github.com/cfuller19/google_DA_capstone)
-- <b>Tableau Dashboard: Hospital Patient Readmission Stats</b>
-  - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- <b>Tableau Dashboard: King County Washington School Funding</b>
-  - [School Funding Dashboard](https://public.tableau.com/shared/5955ZPWJ4?:display_count=n&:origin=viz_share_link)
-- <b>Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification</b>
+<br>
+<h1>Machine Learning Models</h1>
+- <b>E-Commerce Sales Prediction Using Random Forest Regression (Python)</b>
+  - [E-Commerce Sales Prediction](https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction)
+- <b>Sentiment Analysis of Online Reviews (Python)</b>
+  - [Sentiment Analysis](https://github.com/cfuller19/cfuller19-sentiment-analysis)
+- <b>Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification (Python)</b>
   - [K-Nearest Neighbors](https://github.com/cfuller19/knearestneighbors/tree/main)
+<br>
+<h1>Dashboards and Other Visualizations</h1>
+- <b>Hospital Patient Readmission Stats (Tableau)</b>
+  - [Patient Readmission Dashboard](https://public.tableau.com/views/PatientReadmissionDashboard_17044112502620/PatientReadmission?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- <b>King County Washington School Funding Overview (Tableau)</b>
+  - [School Funding Dashboard](https://public.tableau.com/shared/5955ZPWJ4?:display_count=n&:origin=viz_share_link)
+
   
 
 
