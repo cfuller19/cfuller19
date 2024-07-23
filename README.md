@@ -13,7 +13,7 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
 <ul>
   <li><a href="https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction">E-Commerce Sales Prediction Using Random Forest Regression (Python)</a></li>
   <li><a href="https://github.com/cfuller19/cfuller19-sentiment-analysis">Sentiment Analysis of Online Reviews (Python)</a></li>
-  <li><a href="https://github.com/cfuller19/knearestneighbors/tree/main">Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification</a></li>
+  <li><a href="https://github.com/cfuller19/knearestneighbors/tree/main">Predicting Hospital Patient Readmission Risk Using K-Nearest Neighbors Classification (Python)</a></li>
 </ul>
 <br>
 <h3>Dashboards and Other Visualizations</h3>
