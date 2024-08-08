@@ -7,6 +7,7 @@ This is my portfolio of personal data projects - I'll be adding to it as I creat
 <h3>Exploratory Data Analysis</h3>
 <ul>
   <li><a href="https://github.com/cfuller19/google_DA_capstone">Bellabeat Wellness Tracker Case Study (SQL)</a></li>
+  <li><a href="https://github.com/cfuller19/olympicsEDA/tree/main">An Exploration of the Olympics from 1896 - 2022 (SQL, Excel)</li>
 </ul>
 <br>
 <h3>Machine Learning Models</h3>
